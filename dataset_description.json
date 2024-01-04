@@ -15,8 +15,7 @@
     "Name": "PACT_fMRI",
     "ReferencesAndLinks": [
         "analysis code: https://github.com/shenhavlab/PACT_fMRI_public",
-        "updated links to paper and code: https://harrisonritz.github.io",
-        "fMRIprep version: fmriprep-20.2.6 [see analysis code]"
+        "updated links to paper and code: https://harrisonritz.github.io"
     ],
     "Acknowledgements": "Thanks to Joonhwa Kim and Xiamin Leng for assistance with data collection.",
     "EthicsApprovals": []
