@@ -18,5 +18,6 @@
         "updated links to paper and code: https://harrisonritz.github.io",
         "fMRIprep version: fmriprep-20.2.6 [see analysis code]"
     ],
-    "Acknowledgements": "Thanks to Joonhwa Kim and Xiamin Leng for assistance with data collection."
+    "Acknowledgements": "Thanks to Joonhwa Kim and Xiamin Leng for assistance with data collection.",
+    "EthicsApprovals": []
 }
