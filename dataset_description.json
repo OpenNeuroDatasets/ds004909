@@ -18,5 +18,7 @@
         "updated links to paper and code: https://harrisonritz.github.io"
     ],
     "Acknowledgements": "Thanks to Joonhwa Kim and Xiamin Leng for assistance with data collection.",
-    "EthicsApprovals": []
+    "EthicsApprovals": [
+        "This experiment was approved by Brown University's institutional review board (IRB approval code: 1606001539)."
+    ]
 }
